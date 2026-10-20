@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-10-20T07:52:11.311953045Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-10-20T07:53:34.732079436Z",
     "templateType": "trip_a",
     "propertyId": "46c10e44-a9e8-4f6d-bda4-84d6dc7ec38e",
     "homepageId": "01a15735-8af3-72de-9a5f-3283e05f9103"
@@ -1834,8 +1834,18 @@
       },
       "theme": {
         "font": {
-          "koMain": null,
-          "koSub": null,
+          "koMain": {
+            "cdn": null,
+            "key": "cafe24gowoonbam",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.1/Cafe24Oneprettynight.woff",
+            "family": "Cafe24Gowoonbam"
+          },
+          "koSub": {
+            "cdn": null,
+            "key": "escoredream",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-5Medium.woff",
+            "family": "Escoredream"
+          },
           "enMain": {
             "cdn": "https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap",
             "key": "grapenuts",
